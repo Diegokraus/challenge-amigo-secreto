@@ -3,6 +3,11 @@
 Um simples jogo de **Amigo Secreto** feito com **HTML, CSS e JavaScript**.  
 Permite adicionar nomes de amigos a uma lista e realizar o sorteio de forma aleatória.
 
+## 📌 Acesse Online
+
+Você pode acessar o projeto diretamente pelo GitHub Pages:  
+👉 **[Clique aqui para jogar](https://diegokraus.github.io/challenge-amigo-secreto/)**
+
 ## 📋 Funcionalidades
 
 - Adicionar nomes à lista de amigos.
